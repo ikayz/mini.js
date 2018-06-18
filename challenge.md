@@ -1,24 +1,17 @@
 #Challenges mini.js
 ### challenge 1 ###
-Create a Function that accepts the following;
-1. Name
-2. Age
-3. Level
-4. Occupation
-5. City
-6. Country
-7. Active ### should be a boolean
+Challenge is on branching.
 
-The function should have a conditional that checks if the entered age is;
- - between 1 and 12, it should display "You are a child".
- - between 13 and 19, it should display "You are a teenager".
- - between 20 and 25, it should display "You are a young adult".
- - between 26 and 60, it should display "You are an adult".
- - greater than 60, it should display "You are old :)".
+Using an "if" statement, create a test that checks if the value in a variable is between 24 and 42, 50 and 100
+it should display or print out to the console the following.
+1. "You have entered a value between 24 and 42"
+2. "You have entered a value between 50 and 100"
 
-Should someone enter zero, "You are a tiny baby" should display.
-For output use the console or what you prefer. Push your completed file to this repo or provide a link to your solution.
-Once completed the next challenge will be created.
+Else it should display;
 
+3. "You have entered a value I don't recognise"
+4. "You have gone too far"
+
+NB: Look at challenge.js, code has been started finish to get the response. Added missing code in index.html to run file successfully.
 
 
