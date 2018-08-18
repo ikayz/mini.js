@@ -1,2 +1,2 @@
 # mini.js
-Contains small project ideas implemented in JavaScript
+Contains small project ideas, Topics, Methods, and Anything JavaScript
