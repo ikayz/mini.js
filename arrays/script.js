@@ -13,10 +13,18 @@ movies[1] = "King Arthur";
 console.log(books);
 console.log(movies);
 
-//Properties
+//Property
 console.log("Array length: ", movies.length);
 
 //Methods
 movies.reverse();
-
 console.log("After: ", movies);
+
+movies.pop();
+console.log("Pop: ", movies);
+
+movies.shift();
+console.log("Shift: ", movies);
+
+movies.push("The Great Gatsby", "The Chronicles of Narnia");
+console.log("Push: ", movies);
