@@ -12,3 +12,11 @@ movies[1] = "King Arthur";
 
 console.log(books);
 console.log(movies);
+
+//Properties
+console.log("Array length: ", movies.length);
+
+//Methods
+movies.reverse();
+
+console.log("After: ", movies);
